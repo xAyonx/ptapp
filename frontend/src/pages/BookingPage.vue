@@ -45,7 +45,7 @@ const trainer = [
     avatar: 'https://cdn.quasar.dev/img/avatar.png',
     name: 'Ayon',
     pricePerHour: 200.99,
-    tags: ['Wettkampf', 'Technik', 'Brutal'],
+    tags: ['Atemtechnicken', 'Kälteexposition ', 'Calisthenics'],
     content: 'Hallo, Welt'
   }
 ]
