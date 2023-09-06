@@ -43,7 +43,7 @@ const trainer = [
   {
     id: 2,
     avatar: 'https://cdn.quasar.dev/img/avatar.png',
-    name: 'Niko',
+    name: 'Ayon',
     pricePerHour: 200.99,
     tags: ['Wettkampf', 'Technik', 'Brutal'],
     content: 'Hallo, Welt'
